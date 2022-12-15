@@ -4,7 +4,7 @@
  
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=Software+Engineer;backened+developer;fullstack+developer" > 
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=Software+Engineer;backend+developer;fullstack+developer" > 
 </p>
 
 
@@ -18,7 +18,7 @@
 - 👨‍💻 I’m currently learning Java, Spring, Hibernate, SQL, AWS at Masai School.
 - 💬 Ask me about Java, Spring, Hibernate, SQL, AWS
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- 👨‍💻 This is [My Portfolio]()
+- 👨‍💻 This is [My Portfolio](https://hustler-abhi.github.io/)
 
 -  📄 This is [My Resume](https://drive.google.com/file/d/1AQuDjqK5O0mhJauKVGziQUxPInnq9uU-/view?usp=sharing)
 - 📫 How to reach me: ...*hustlerabhishek895@gmail.com*
